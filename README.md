@@ -8,6 +8,17 @@ Using technical indicators, feature selection, class balancing, and a powerful s
 
 ---
 
+## 📂 Data Source
+
+The dataset used for this project is publicly available on Kaggle:
+
+📦 **Dataset:** Gold Price Data  
+🔗 **Source:** [Kaggle - Gold Price Data by altruistdelhite04](https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data)
+
+This dataset includes historical gold price data along with other market indicators, ideal for time series modeling and financial machine learning.
+
+---
+
 ## 📊 Feature Engineering Highlights
 
 We created multiple features based on domain knowledge from financial time series analysis:
